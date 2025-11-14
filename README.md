@@ -2,7 +2,7 @@
 
 ## Nanyang Technological University - CZ4079 Final Year Project
 
-## Official publication
+#### Official publication
 [Cryptocurrency Price Analysis](https://dr.ntu.edu.sg/entities/publication/0b9fb091-8177-482c-90d0-a4794fbc36e8) 
 
 #### Problem
