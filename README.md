@@ -64,6 +64,4 @@ Development Environment:
 This stack enabled the collection, processing, and analysis of bitcoin prices and news sentiment efficiently, while supporting visualization and statistical evaluation of relationships between variables.
 
 
-#### Data visualisations
-
 
