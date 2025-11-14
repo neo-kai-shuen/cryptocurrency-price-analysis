@@ -1,6 +1,6 @@
 # Cryptocurrency Price Analysis
 
-## Nanyang Technological University, School of Computer Science and Engineering - CZ4079 Final Year Project
+## Nanyang Technological University - CZ4079 Final Year Project
 
 ### Publication
 [Cryptocurrency Price Analysis](https://dr.ntu.edu.sg/entities/publication/0b9fb091-8177-482c-90d0-a4794fbc36e8) 
